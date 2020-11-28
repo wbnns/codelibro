@@ -1,6 +1,6 @@
-# BIENVENIDO
+# Bienvenido
 
-## Misión
+## Nuestro objetivo
 
 Nuestro principal objetivo es el cultivo y la secuenciación de los mejores recursos gratuitos de Internet. Creemos de todo corazón que todo lo que uno necesita saber para conseguir un empleo se puede encontrar gratis en línea. Sin embargo, para el nuevo alumno promedio, la gran cantidad \(y la calidad muy variable\) de los recursos dificulta el progreso significativo. Por lo tanto, hemos ideado tres pasos básicos para solucionar este problema.
 

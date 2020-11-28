@@ -1,6 +1,6 @@
 # Table of contents
 
-* [BIENVENIDO](README.md)
+* [Bienvenido](README.md)
 
 ## Fundamentos
 
