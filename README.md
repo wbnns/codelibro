@@ -44,3 +44,11 @@ Si desea ayudarnos a desarrollar alguna lección, lea nuestra guía de contribuc
 
 Para obtener más información sobre cómo puede contribuir, únase a nosotros en [Element](https://app.element.io/#/room/#codelibro:matrix.org) o [GitHub](https://github.com/wbnns/codelibro).
 
+### Expresiones de gratitud
+
+Muchas gracias y reconocimientos para la persona que encabezó el montaje de este material en inglés, [Erik Trautman](http://github.com/eriktrautman). Erik utilizó este material para crear [The Odin Project](https://www.theodinproject.com/), un recurso gratuito muy útil que enseña a las personas a codificar.
+
+Muchas gracias y agradecimientos también a todos los colaboradores de estos proyectos.
+
+Sin ellos, nada de este material existiría en su forma actual para que las personas que hablen idiomas distintos del inglés puedan aprender.
+
