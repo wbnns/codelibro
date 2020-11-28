@@ -18,3 +18,9 @@ Este plan de estudios funciona reuniendo el mejor contenido de Internet para apr
 
 La mayoría de las lecciones contendrán preguntas que debería poder responder antes de continuar. Algunas de las lecciones te pedirán que completes ejercicios. Además, proporcionamos varios proyectos a lo largo del plan de estudios para ayudarlo a aumentar su comprensión construyendo cosas.
 
+## Que sigue
+
+Una vez que haya completado este curso, debería sentirse bastante cómodo con los componentes básicos de la programación web, pero con ganas de profundizar más. Aunque dedicamos bastante tiempo a profundizar en cada uno de los temas principales de este curso, en realidad es solo una muestra de lo que viene a continuación \(y todas las cosas interesantes que puedes hacer con él\).
+
+Los cursos que vienen después de este están diseñados para tomar esa base y construirla en una comprensión aplicada del material. Esos cursos se centrarán en tomar estos componentes básicos y perfeccionarlos en un conjunto de habilidades altamente funcionales. Una vez que haya completado el curso de Fundamentos, habrá construido una base sólida para dar los siguientes pasos.
+
