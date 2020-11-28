@@ -34,13 +34,13 @@ Si desea ayudarnos a desarrollar alguna lección, lea nuestra guía de contribuc
 
 #### Una lista de lo que puede contribuir para ayudar:
 
-#### - Cuéntale a la gente sobre Codelibro
-
 * Cuéntale a la gente sobre Codelibro
 * Corregir errores tipográficos y otros errores gramaticales
 * Reescribir las secciones de las lecciones para hacerlas más claras y fáciles de entender
 * Arreglando enlaces rotos, agregar nuevos enlaces de recursos que crea que mejorarían una lección, y trabajando en nuevas lecciones y proyectos.
 * Puede optar por trabajar en partes de una lección que se describen en la lista de progreso en los planes de lecciones o puede trabajar para completar una lección completa usted mismo.
+
+### Contribuyendo
 
 Para obtener más información sobre cómo puede contribuir, únase a nosotros en [Element](https://app.element.io/#/room/#codelibro:matrix.org) o [GitHub](https://github.com/wbnns/codelibro).
 
