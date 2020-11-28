@@ -10,5 +10,7 @@ Las lecciones se estructuran mediante una combinación de contenido escrito orig
 
 ### Unete a la communidad
 
-La comunidad Codelibro se puede encontrar en [Element](https://app.element.io/#/room/#codelibro:matrix.org) ****- ****quizás nos veamos allí! Le invitamos a unirse a nosotros.
+La comunidad Codelibro se puede encontrar en [Element](https://app.element.io/#/room/#codelibro:matrix.org) ****- ****quizás nos veamos allí!
+
+Puede unirse en cualquier momento para hacer preguntas, obtener más información o simplemente para pasar el rato.
 
