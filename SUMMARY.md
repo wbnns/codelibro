@@ -12,3 +12,7 @@
 
 * [Element](https://app.element.io/#/room/#codelibro:matrix.org)
 
+---
+
+* [Unete a la communidad](unete-a-la-communidad.md)
+
