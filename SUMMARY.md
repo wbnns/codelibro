@@ -9,6 +9,7 @@
 * [Preparándose mentalmente](fundamentos/preparandose-mentalmente.md)
 * [Unete a la communidad](fundamentos/unete-a-la-communidad.md)
 * [Cómo funciona la web?](fundamentos/como-funciona-la-web.md)
+* [Descripción general de la instalación](fundamentos/descripcion-general-de-la-instalacion.md)
 
 ## Communidad <a id="comunidad"></a>
 
