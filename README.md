@@ -1,3 +1,7 @@
+---
+description: Un recurso gratuito para aprender desarrollo web.
+---
+
 # Bienvenido
 
 ## Nuestro objetivo

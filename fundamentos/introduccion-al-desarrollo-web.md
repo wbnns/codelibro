@@ -14,11 +14,11 @@ Para obtener más detalles, Wikipedia describe la amplitud de la profesión de d
 
 Anteriormente, mencionamos que el trabajo de desarrollo web podría estar en el front-end, el back-end o la pila completa. ¿Qué significan exactamente estos términos?
 
-La interfaz es lo que ve en el sitio web en su navegador, incluida la presentación del contenido y los elementos de la interfaz de usuario, como la barra de navegación. Los desarrolladores front-end utilizan HTML, CSS, JavaScript y sus marcos relevantes para garantizar que el contenido se presente de manera eficaz y que los usuarios tengan una experiencia excelente.
+La interfaz es lo que ve en el sitio web en su navegador, incluida la presentación del contenido y los elementos de la interfaz de usuario, como la barra de navegación. Los desarrolladores **front-end** utilizan HTML, CSS, JavaScript y sus marcos relevantes para garantizar que el contenido se presente de manera eficaz y que los usuarios tengan una experiencia excelente.
 
-El back-end se refiere a las entrañas de la aplicación, que viven en el servidor. El back-end almacena y sirve los datos del programa para garantizar que el front-end tenga lo que necesita. Este proceso puede volverse muy complicado cuando un sitio web tiene millones de usuarios. Los desarrolladores de back-end usan lenguajes de programación como Java, Python y Ruby para trabajar con datos.
+El **back-end** se refiere a las entrañas de la aplicación, que viven en el servidor. El back-end almacena y sirve los datos del programa para garantizar que el front-end tenga lo que necesita. Este proceso puede volverse muy complicado cuando un sitio web tiene millones de usuarios. Los desarrolladores de back-end usan lenguajes de programación como Java, Python y Ruby para trabajar con datos.
 
-Los desarrolladores full-stack se sienten cómodos trabajando tanto con el front-end como con el back-end. En Codelibro, nos enfocamos en enseñarle el desarrollo completo, cubriendo todos los aspectos del desarrollo web.
+Los desarrolladores **full-stack** se sienten cómodos trabajando tanto con el front-end como con el back-end. En Codelibro, nos enfocamos en enseñarle el desarrollo completo, cubriendo todos los aspectos del desarrollo web.
 
 Para obtener más detalles, Udacity tiene una excelente publicación de blog sobre este tema: [3 carreras de desarrollo web decodificadas: Front-End vs Back-End vs Full Stack](https://translate.google.com/translate?hl=en&sl=en&tl=es&u=http%3A%2F%2Fblog.udacity.com%2F2014%2F12%2Ffront-end-vs-back-end-vs-full-stack-web-developers.html)
 
