@@ -1,6 +1,6 @@
 # Unete a la communidad
 
-## Introducción
+### Introducción
 
 Trabajar y colaborar con otras personas es una parte importante del trabajo como desarrollador web. Por lo tanto, en Codelibro lo alentamos a participar en [nuestra comunidad de chat en línea](https://app.element.io/#/room/#codelibro:matrix.org), de la que hablaremos más a continuación. Al unirnos, todos podemos crecer juntos y ayudarnos unos a otros a aprender sobre desarrollo web.
 
@@ -54,11 +54,11 @@ Si tiene problemas con la línea de comandos, asegúrese de incluir tanto su ent
 
 En las salas de chat, el código se puede mostrar de manera diferente a las oraciones normales usando comillas invertidas \(\`\`\). Es importante tener en cuenta que las comillas inversas no son lo mismo que las comillas simples \("\).
 
-**Para una sola línea de código:**
+#### **Para una sola línea de código:**
 
 `# Use una comilla invertida en ambos extremos`
 
-**Para múltiples líneas de código:**
+#### **Para múltiples líneas de código:**
 
 ```text
 # Use tres comillas invertidas en una línea separada POR ENCIMA de su código
@@ -68,7 +68,7 @@ TU CODIGO AQUI
 # Use tres comillas invertidas en una línea separada DEBAJO de su código
 ```
 
-## Tarea
+### Tarea
 
 1. [Cree una cuenta de GitHub gratuita](https://github.com/). Como descubrirá, GitHub es una parte integral del flujo de trabajo de desarrollo.
 2. [Únase a nuestro servidor de chat](https://app.element.io/#/room/#codelibro:matrix.org). Entra y saluda! Hemos creado una sala de presentaciones y registros que es un gran lugar para presentarse y siempre nos complace dar la bienvenida a nuevos miembros de la comunidad. Tenemos salas de chat para cada tema de desarrollo cubierto por Codelibro y más allá. ¡Inicie sesión en el chat y comience a explorar!

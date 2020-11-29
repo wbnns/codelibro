@@ -4,7 +4,7 @@ Aprender a codificar es increíblemente gratificante, pero también puede ser di
 
 Antes de entrar en la carne del plan de estudios, repasaremos lo siguiente para ayudarlo a aprovechar al máximo Codelibro: las cosas que lo ayudarán a tener éxito en su objetivo de aprender a codificar y las trampas que debe tratar de evitar.
 
-## Motivación
+### Motivación
 
 Tómate un momento para pensar por qué has decidido aprender a programar.
 
@@ -17,7 +17,7 @@ Su motivación podría ser una combinación de estas razones o algo completament
 
 Para darle un poco de impulso a su motivación, puede leer sobre el éxito de otros, por ejemplo, [una mujer que se enseñó a sí misma lo suficiente para conseguir un trabajo en 5 meses](https://translate.google.com/translate?hl=en&sl=en&tl=es&u=https%3A%2F%2Fnewcodegirl.blogspot.com%2F&sandbox=1).
 
-## Una mentalidad de crecimiento
+### Una mentalidad de crecimiento
 
 Tu mentalidad es muy importante cuando te enseñas a ti mismo nuevas habilidades, no solo a la programación. Su mentalidad tendrá más impacto en sus posibilidades de éxito que _cualquier otra cosa_.
 
@@ -35,7 +35,7 @@ Cuando se encuentre cuestionando sus habilidades, reflexione sobre los éxitos q
 
 Ésta es toda la prueba que necesita de que puede hacerlo.
 
-## El proceso de aprendizaje
+### El proceso de aprendizaje
 
 Aprender conceptos y luego practicarlos te ayudará a comprender mejor cómo funcionan y encajan las cosas. Los proyectos son el método definitivo para garantizar que su comprensión teórica se alinee con el funcionamiento real de los conceptos y técnicas de programación.
 
@@ -49,7 +49,7 @@ Enseñar a los demás lo que sabe es una excelente manera de solidificar lo que 
 
 Puede practicar este método de aprendizaje ayudando a otros en [nuestra comunidad](https://app.element.io/#/room/#codelibro:matrix.org).
 
-## Que hacer cuando estas atrapado
+### Que hacer cuando estas atrapado
 
 Inevitablemente, se atascará en algún punto del plan de estudios, tal vez debido a un concepto que tiene dificultades para comprender o tal vez debido a que algo no funciona correctamente en un proyecto. Sea lo que sea, use las siguientes herramientas para despegarse:
 
@@ -57,7 +57,7 @@ Inevitablemente, se atascará en algún punto del plan de estudios, tal vez debi
 * Tómese un descanso: permita que su estado de aprendizaje difuso trabaje en el problema.
 * [Solicite ayuda en nuestro chat](https://app.element.io/#/room/#codelibro:matrix.org): venga preparado con su investigación. Las personas estarán más dispuestas a ayudarlo cuando vean que ya se ha esforzado en tratar de encontrar la solución por su cuenta.
 
-## Administrar su tiempo de estudio
+### Administrar su tiempo de estudio
 
 Tendrá más éxito con Codelibro si dedica tiempo **constante** en lugar de trabajar en él una vez a la semana. Desarrollar el hábito de estudiar todos los días a una hora específica y con un objetivo específico le garantizará un progreso constante.
 
@@ -69,27 +69,25 @@ Los plazos provocan un estrés innecesario. Dado que Codelibro es gratuito y abi
 
 **En pocas palabras: no se preocupe, solo aprenda.**
 
-## Escollos para evitar
+### Escollos para evitar
 
 Los siguientes son algunos de los obstáculos que los principiantes encuentran a menudo cuando aprenden a programar. Haga todo lo posible para evitarlos.
 
-### Dilación
+#### Dilación
 
-La procrastinación será su mayor enemigo al intentar progresar.
-
-**Solución:** La [Técnica Pomodoro](https://translate.google.com/translate?hl=en&sl=en&tl=es&u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPomodoro_Technique) es una forma de administrar su tiempo para mantenerse enfocado. La idea es programar un temporizador durante 25 minutos y trabajar en una tarea hasta que suene el temporizador. Si se distrae o interrumpe durante los 25 minutos, comience nuevamente los 25 minutos de trabajo. Una vez que se haya concentrado con éxito en el trabajo durante 25 minutos, tómese un descanso de 5 minutos. Cuando termine su descanso, repita los 25 minutos de trabajo y los 5 minutos de descanso. Una vez que haya completado cuatro bloques de trabajo de 25 minutos, tómese un descanso más largo de 15 a 30 minutos.
+La procrastinación será su mayor enemigo al intentar progresar. La [Técnica Pomodoro](https://translate.google.com/translate?hl=en&sl=en&tl=es&u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPomodoro_Technique) es una forma de administrar su tiempo para mantenerse enfocado. La idea es programar un temporizador durante 25 minutos y trabajar en una tarea hasta que suene el temporizador. Si se distrae o interrumpe durante los 25 minutos, comience nuevamente los 25 minutos de trabajo. Una vez que se haya concentrado con éxito en el trabajo durante 25 minutos, tómese un descanso de 5 minutos. Cuando termine su descanso, repita los 25 minutos de trabajo y los 5 minutos de descanso. Una vez que haya completado cuatro bloques de trabajo de 25 minutos, tómese un descanso más largo de 15 a 30 minutos.
 
 La técnica Pomodoro es excelente para evitar la dilación, ya que te obliga a trabajar sin distracciones. Dado que el tiempo de trabajo solo dura 25 minutos antes de tomar un descanso, no es abrumador, lo que hace que sea más difícil racionalizar la procrastinación.
 
 Si quieres probarlo, [TomatoTimer](https://translate.google.com/translate?hl=en&sl=en&tl=es&u=http%3A%2F%2Ftomato-timer.com%2F) es un temporizador Pomodoro fácil de usar. También puede usar el temporizador en su teléfono!
 
-### No tomar descansos
+#### No tomar descansos
 
 A medida que se adentra en el material, puede sentirse obligado a estudiar continuamente durante largos períodos de tiempo. Puede parecer que está haciendo más trabajo al principio, pero esto a menudo conduce al agotamiento, lo que en consecuencia resulta en una menor productividad.
 
 Puede parecer contrario a la intuición, pero en realidad hará más si retrocede regularmente para recargar su cerebro y su cuerpo. Los estudios demuestran que el rendimiento aumenta después de los descansos de todas las duraciones: desde vacaciones prolongadas hasta micro descansos de 30 segundos. John Trougakos, profesor asociado de administración de la Universidad de Toronto, dice que la concentración mental es similar a un músculo. Nuestro enfoque se fatiga después de un uso sostenido y necesita un período de descanso para recuperarnos, como un culturista descansando entre series en el gimnasio.
 
-**Solución:** Utilice la Técnica Pomodoro mencionada anteriormente para medir la frecuencia y la duración de sus merecidos descansos. Siéntete libre de jugar y experimentar con diferentes frecuencias y duraciones de los descansos.
+Utilice la Técnica Pomodoro mencionada anteriormente para medir la frecuencia y la duración de sus merecidos descansos. Siéntete libre de jugar y experimentar con diferentes frecuencias y duraciones de los descansos.
 
 Qué hacer durante su descanso:
 
@@ -102,37 +100,37 @@ Qué hacer durante su descanso:
 
 Lea [este artículo](https://translate.google.com/translate?hl=en&sl=en&tl=es&u=https%3A%2F%2Fsimpleprogrammer.com%2Ftaking-breaks-will-boost-productivity%2F) para obtener más información sobre descansos y productividad.
 
-### Distracciones digitales
+#### Distracciones digitales
 
 Las distracciones digitales son correos electrónicos / notificaciones de sitios web que hacen perder el tiempo, como las redes sociales. Estas distracciones rompen su enfoque y hacen que la postergación sea tentadora. Por lo tanto, deben evitarse durante el tiempo de estudio.
 
-**Solución:** apague las notificaciones y agregue un bloqueador a su Internet para limitar su tiempo en sitios que distraen.
+Apague las notificaciones y agregue un bloqueador a su Internet para limitar su tiempo en sitios que distraen.
 
-### Distracciones fisicas
+#### Distracciones fisicas
 
 Las distracciones físicas son distracciones de su entorno, como un televisor de fondo u otras personas hablando. Estas distracciones pueden ser tan dañinas para su enfoque como las distracciones digitales.
 
-**Solución:** encuentre un lugar tranquilo para estudiar donde pueda concentrarse en su hogar. Si esa no es una opción, puede usar auriculares con cancelación de ruido para bloquear las distracciones ruidosas en su entorno.
+Encuentre un lugar tranquilo para estudiar donde pueda concentrarse en su hogar. Si esa no es una opción, puede usar auriculares con cancelación de ruido para bloquear las distracciones ruidosas en su entorno.
 
-### Agujeros de conejo
+#### Agujeros de conejo
 
 Debido a que cubrimos tanto material en Codelibro y nos vinculamos a tantos cursos y herramientas de alta calidad, es fácil para los estudiantes caer en madrigueras al dedicar tiempo a tratar de aprender todo lo que hay que saber sobre un tema para el que no están preparados. para o no les beneficiará mucho. Nos hemos esforzado mucho en estructurar el plan de estudios para que todas las cosas importantes que necesita saber sobre el desarrollo web estén cubiertas exactamente cuando necesita saberlas.
 
-**Solución:** Siga el camino trazado tanto como sea posible. Trate de limitar el tiempo que pasa bajando por las madrigueras de los conejos, ya que estos desvíos realmente pueden arruinar su impulso.
+Siga el camino trazado tanto como sea posible. Trate de limitar el tiempo que pasa bajando por las madrigueras de los conejos, ya que estos desvíos realmente pueden arruinar su impulso.
 
-### Compararse con los demás
+#### Compararse con los demás
 
 Los estudiantes a menudo se comparan con otros que están más avanzados en su viaje de codificación o tienen más experiencia. Esta es una receta para la depresión y la frustración.
 
-**Solución:** compárate solo con tu yo pasado. Han mejorado sus habilidades y conocimientos respecto a donde estaba la semana pasada, el mes pasado o el año pasado? Siéntete orgulloso del progreso que has logrado!
+Compárate solo con tu yo pasado. Han mejorado sus habilidades y conocimientos respecto a donde estaba la semana pasada, el mes pasado o el año pasado? Siéntete orgulloso del progreso que has logrado!
 
-## Conclusión
+### Conclusión
 
 Aprender cualquier habilidad nueva es un viaje lleno de obstáculos y obstáculos que superar. Esperamos que los principios establecidos aquí lo pongan en una posición mucho mejor para tener éxito y aprovechar Codelibro al máximo.
 
 Sin más demora, comencemos a aprender sobre desarrollo web!
 
-## Recursos adicionales 
+### Recursos adicionales 
 
 * [Gestionar la inspiración y la motivación ](https://translate.google.com/translate?hl=en&sl=en&tl=es&u=https%3A%2F%2Fmarkmanson.net%2Fdo-something)
 * [Aprender a codificar después del atardecer](https://translate.google.com/translate?hl=en&sl=en&tl=es&u=https%3A%2F%2Fmedium.freecodecamp.org%2Flearning-to-code-when-it-gets-dark-e485edfb58fd%23.yjh0fehje)

@@ -1,6 +1,6 @@
 # Introducción al desarrollo web
 
-## Qué hacen los desarrolladores web?
+### Qué hacen los desarrolladores web?
 
 En resumen, los desarrolladores web crean y mantienen sitios web.
 
@@ -10,7 +10,7 @@ El desarrollo web podría ser una buena profesión para usted si le gusta resolv
 
 Para obtener más detalles, Wikipedia describe la amplitud de la profesión de desarrollo web en su [entrada sobre diseño web](https://es.wikipedia.org/wiki/Dise%C3%B1o_web).
 
-## Tipos de desarrolladores web
+### Tipos de desarrolladores web
 
 Anteriormente, mencionamos que el trabajo de desarrollo web podría estar en el front-end, el back-end o la pila completa. ¿Qué significan exactamente estos términos?
 
@@ -22,7 +22,7 @@ Los desarrolladores **full-stack** se sienten cómodos trabajando tanto con el f
 
 Para obtener más detalles, Udacity tiene una excelente publicación de blog sobre este tema: [3 carreras de desarrollo web decodificadas: Front-End vs Back-End vs Full Stack](https://translate.google.com/translate?hl=en&sl=en&tl=es&u=http%3A%2F%2Fblog.udacity.com%2F2014%2F12%2Ffront-end-vs-back-end-vs-full-stack-web-developers.html)
 
-## Tipos de carreras
+### Tipos de carreras
 
 Ahora que conoce los diferentes tipos de desarrolladores web, veamos lo que mencionamos anteriormente sobre los diferentes tipos de clientes y empleadores con los que puede trabajar.
 
@@ -36,22 +36,24 @@ Como consultor de una consultoría web, renunciaría a parte de su potencial sal
 
 Por último, las empresas grandes y antiguas todavía necesitan desarrolladores web. Estas empresas ofrecen un buen equilibrio entre el trabajo y la vida, la paga y los beneficios, pero a menudo se mueven más lentamente que una empresa que se centra mucho en la tecnología.
 
-## Herramientas del oficio
+### Herramientas del oficio
 
 * [Google Translate](https://translate.google.com/)
 * [Google](https://google.com/)
+* [Cómo activar subtítulos en Youtube](https://support.google.com/youtube/answer/6373554?hl=es)
+* [Youtube](https://youtube.com/)
 * Editora de texto
 * Interfaz de línea de comandos \(ILC\)
 * [Stack Overflow](https://es.stackoverflow.com/)
 * [GitHub](https://docs.github.com/es)
 
-## Motivación
+### Motivación
 
 Aprender a codificar es increíblemente gratificante, pero también puede ser difícil y frustrante. Los activos más fuertes que puede tener como estudiante son el deseo de construir, una mente que resuelve problemas y la perseverancia ante los reveses.
 
 La industria del desarrollo web tiene una larga historia de desarrolladores exitosos con diferentes antecedentes, por lo que las personas tienden a preocuparse más por lo que realmente has **construido** que por cómo llegaste allí.
 
-## Por qué?
+### Por qué?
 
 Esto no será fácil.
 
@@ -65,7 +67,7 @@ Codelibro está en constante evolución gracias a personas como usted que avanza
 
 Una vez que comience a sentirse cómodo con las herramientas, comience a piratear proyectos de código abierto. Cuanto más contribuya, más aprenderá sobre lo que puede hacer y más cerca estará de ser contratable. Estos proyectos también se verán geniales en tu currículum!
 
-## Conclusión
+### Conclusión
 
 Con suerte, habrá obtenido una mejor idea de lo que realmente hace un desarrollador web y cómo sería su vida si decidiera emprenderla como carrera. Esto solo ha sido un adelanto del mundo del desarrollo web.
 
@@ -83,7 +85,7 @@ E incluso podría cambiar la vida también.
 
 _Que estas esperando?_
 
-## Recursos adicionales
+### Recursos adicionales
 
 Esta sección contiene enlaces útiles a otro contenido. No es obligatorio, así que considérelo complementario si necesita profundizar en algo.
 

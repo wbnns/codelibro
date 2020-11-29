@@ -4,7 +4,7 @@ description: Un recurso gratuito para aprender desarrollo web.
 
 # Bienvenido
 
-## Nuestro objetivo
+### Nuestro objetivo
 
 Nuestro principal objetivo es el cultivo y la secuenciación de los mejores recursos gratuitos de Internet. Creemos de todo corazón que todo lo que uno necesita saber para conseguir un empleo se puede encontrar gratis en línea. Sin embargo, para el nuevo alumno promedio, la gran cantidad \(y la calidad muy variable\) de los recursos dificulta el progreso significativo. Por lo tanto, hemos ideado tres pasos básicos para solucionar este problema.
 
@@ -14,7 +14,7 @@ Nuestro principal objetivo es el cultivo y la secuenciación de los mejores recu
 
 Además, hemos creado nuestros materiales de aprendizaje de código completamente abierto. Esto significa que si alguien encuentra un recurso que es mejor que el que se incluye actualmente en nuestras lecciones, esa persona es libre \(¡y se le anima!\) A agregarlo, lo que mejora nuestro plan de estudios con el tiempo y lo ayuda a mantenerse actualizado.
 
-## Estamos felices de que esté aquí
+### Estamos felices de que esté aquí
 
 Codelibro es un recurso gratuito para aprender desarrollo web. Nuestra misión es proporcionar un plan de estudios integral para aprender desarrollo web de forma gratuita. Ayudamos a las personas a aprender las habilidades y a construir una impresionante cartera de proyectos que necesitan para ser contratados como desarrolladores web.
 
@@ -28,7 +28,7 @@ La comunidad Codelibro se puede encontrar en [Element](https://app.element.io/#/
 
 Puede unirse en cualquier momento para hacer preguntas, obtener más información o simplemente para pasar el rato.
 
-## Mejora Codelibro
+### Mejora Codelibro
 
 Codelibro depende de las contribuciones de código abierto para mejorar, crecer y prosperar. Damos la bienvenida a colaboradores de todos los niveles de experiencia y antecedentes para ayudar a mantener el plan de estudios y la comunidad.
 
@@ -44,11 +44,11 @@ Si desea ayudarnos a desarrollar alguna lección, lea nuestra guía de contribuc
 * Arreglando enlaces rotos, agregar nuevos enlaces de recursos que crea que mejorarían una lección, y trabajando en nuevas lecciones y proyectos.
 * Puede optar por trabajar en partes de una lección que se describen en la lista de progreso en los planes de lecciones o puede trabajar para completar una lección completa usted mismo.
 
-### Contribuyendo
+#### Contribuyendo
 
 Para obtener más información sobre cómo puede contribuir, únase a nosotros en [Element](https://app.element.io/#/room/#codelibro:matrix.org) o [GitHub](https://github.com/wbnns/codelibro).
 
-## Expresiones de gratitud
+### Expresiones de gratitud
 
 Muchas gracias y reconocimientos para la persona que encabezó el montaje de este material en inglés, [Erik Trautman](http://github.com/eriktrautman). Erik utilizó este material para crear [The Odin Project](https://www.theodinproject.com/), un recurso gratuito muy útil que enseña a las personas a codificar.
 
