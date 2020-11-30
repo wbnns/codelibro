@@ -14,6 +14,7 @@
 
 * [Descripción general de la instalación](instalaciones/descripcion-general-de-la-instalacion.md)
 * [Prerrequisitos](instalaciones/prerrequisitos.md)
+* [Editores de texto](instalaciones/editores-de-texto.md)
 
 ## Communidad <a id="comunidad"></a>
 
